@@ -1,0 +1,7 @@
+file .env
+
+```
+PORT=3000
+
+DATABASE_URL='file:./dev.db'
+```
